@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{ananya:2,index:2,search:2,welcom:2,titl:[0,1],journal:2,indic:2,content:2,program:2,tabl:2,modul:2,document:2,page:2},objtypes:{},titles:["&lt;no title&gt;","&lt;no title&gt;","Welcome to Ananya&#8217;s Programming Journal&#8217;s documentation!"],objnames:{},filenames:["01_cloud-services","02_bash-console","index"]})
